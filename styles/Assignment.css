@@ -28,7 +28,8 @@
     background-color:#C6E4D6 ;
     max-width: 1286px;
     margin: 0 auto;
-    border: none;border-radius: 10px;
+    border: none;
+    border-radius: 10px;
     
     
   }
@@ -59,3 +60,75 @@
     width: 474;
     padding: 40px 63px;
   }
+/* The Opinion Matters section */
+.informations{
+    max-width: 1286px;
+    margin: 0 auto;
+}
+.section-title{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 40px;
+}
+.section-description{
+    color:rgba(14, 14, 14, 0.7);
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.information-1{
+    background-color: rgba(84, 144, 245, 0.2);
+    border: none;
+    border-radius: 16px;
+    padding: 31px;
+}
+.information-title{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.information-description{
+    color:rgba(14, 14, 14, 0.7) ;
+    font-weight: 400;
+    font-size: 16px;
+}
+.information-btn-1{
+    background-color: #5490F5;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 11px 20px;
+}
+.information-2{
+    background-color:rgba(198, 228, 214, 1) ;
+    border: none;
+    border-radius: 16px;
+    padding: 31px;
+}
+    .information-btn-2{
+        background-color: #09A15C;
+        border: none;
+        border-radius: 5px;
+        color:#FFFFFF ;
+        padding: 11px 20px;
+    }
+.information-3{
+    background-color:rgba(247, 235, 207, 1) ;
+    border: none;
+    border-radius: 16px;
+    padding: 31px;
+    
+}
+.information-btn-3{
+    background-color:#FFC239 ;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 11px 20px;
+}
+
+.information-content{
+    display: flex;
+    gap: 24px;
+}
