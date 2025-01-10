@@ -1,0 +1,61 @@
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-style: normal;
+  } 
+/* header style */
+.header-content{
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin: 30px 160px;
+}
+    .header-title{
+        color:#0E0E0E ;
+        font-weight:bold ;
+        font-size: 32px;
+    }
+    .header-btn{
+        color: #006A50;
+        font-weight: 600;
+        font-size: 18px;
+        border: 1px solid green;
+
+    }
+  /* nav style */
+  .benner{
+    display: flex;
+    background-color:#C6E4D6 ;
+    max-width: 1286px;
+    margin: 0 auto;
+    border: none;border-radius: 10px;
+    
+    
+  }
+  .benner-content{
+    max-width:622px;
+    padding:77px 63px;
+    
+  }
+  .benner-sub-title{
+    color:rgba(14, 14, 14, 0.5) ;
+    font-weight:normal;
+    font-size: 24px;
+
+  }
+  .benner-title{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 51px;
+  }
+  .btn-primary{
+    background-color:#006A50 ;
+    color: #FFFFFF;
+    border-radius: 4px;
+    border: none;
+    padding: 17px 34px ;
+  }
+  .benner-profile-picture{
+    width: 474;
+    padding: 40px 63px;
+  }
