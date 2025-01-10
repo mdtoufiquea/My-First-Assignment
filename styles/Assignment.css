@@ -60,7 +60,8 @@
     width: 474;
     padding: 40px 63px;
   }
-/* The Opinion Matters section */
+  /* The Vision of Future */
+
 .informations{
     max-width: 1286px;
     margin: 0 auto;
@@ -131,4 +132,59 @@
 .information-content{
     display: flex;
     gap: 24px;
+}
+/* Recent News */
+
+.abba-keda{
+    max-width: 1286px;
+    margin: 0 auto;
+}
+.satlite{
+    display: flex;
+    background-color:antiquewhite;
+        justify-content: space-between;
+        padding:48px;
+        border: none;
+       border-radius: 24px;
+}
+.satlite-content{
+    padding: 32px;
+}
+.Recent-News-title{
+    color:#0E0E0E ;
+    font-weight: bold;
+    font: size 40px;
+}
+.Recent-News-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-weight: 400;
+    font-size: 16px;
+}
+.satelite-image{
+    width: 408px;
+    border: none;
+    border-radius: 24px;
+}
+.satelite-title{
+    color: #rgba(14, 14, 14, 0.8);
+    font-weight:bold;
+    font-size: 32px;
+}
+.satelite-date-time{
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.satelite-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-weight:400;
+    font-size: 16px;
+    
+}
+.satelite-btn{
+    background-color:  #006A50;
+    color:#FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 13px 26px;
 }
