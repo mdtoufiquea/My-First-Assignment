@@ -318,6 +318,24 @@
     
  }
 
+ /* footer section */
+ .footer-content,hr{
+    background-color:#FFFFFF ;
+    color: rgba(14, 14, 14, 0.1);
+    margin: 80px auto;
+ }
+ .footer-title{
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+ }
+ .imagess{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+ }
+
 
 
 
@@ -367,7 +385,7 @@
 
 /* Dr. Muhammad Yunus */
 .Yunus{
-    max-width: 1286px;
+    max-width: 1250px;
     margin: 80px auto;
     background-color:#FFFFFF ;
     padding: 48px 24px;
@@ -375,6 +393,7 @@
     border-radius: 16px;
     background-image: url(../images/quote-bg.png);
     background-repeat: no-repeat;
+    background-position: 25px 38px;
 }
 .Yunus-description{
     color: rgba(14, 14, 14, 0.8);
