@@ -256,52 +256,53 @@
     font-weight: 400;
     font-size: 16px;
     text-align: center;
+
 }
 .donate-form{
     display:flex ;
-    justify-content: space-around;
-
+    justify-content:space-around;
+    margin: 20px auto;
 }
- .btn-1{
-    color:#0E0E0E;
+.btn-1{
+    color: #0E0E0E;
     font-weight: bold;
-    font-family: 40px;
+    font-size: 40px;
+    background-color: #FFFFFF;
     padding: 40px;
-    background-color: rgba(255, 255, 255, 1);
-    border-radius: 16px;
-    border:1px solid rgba(14, 14, 14, 0.15);
- }
- .btn-2{
-    color:#0E0E0E;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius:16px ;
+}
+.btn-2{
+    color: #0E0E0E;
     font-weight: bold;
-    font-family: 40px;
+    font-size: 40px;
+    background-color: #FFFFFF;
     padding: 40px;
-    background-color:#C6E4D6 ;
-    border-radius: 16px;
-    border:1px solid rgba(14, 14, 14, 0.15);
- }
- .btn-3{
-    color:#0E0E0E;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius:16px ;
+}
+.btn-3{
+    color: #0E0E0E;
     font-weight: bold;
-    font-family: 40px;
+    font-size: 40px;
+    background-color: #3eeeee;
     padding: 40px;
-    background-color: rgba(255, 255, 255, 1);
-    border-radius: 16px;
-    border:1px solid rgba(14, 14, 14, 0.15);
- }
- .btn-4{
-    color:#0E0E0E;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius:16px ;
+}
+.btn-4{
+    color: #0E0E0E;
     font-weight: bold;
-    font-family: 40px;
+    font-size: 40px;
+    background-color: #FFFFFF;
     padding: 40px;
-    background-color: rgba(255, 255, 255, 1);
-    border-radius: 16px;
-    border:1px solid rgba(14, 14, 14, 0.15);
- }
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius:16px ;
+}
  .form-input{
     width: 1032px;
     text-align: center;
-    height: 64px;
+    height: 30px;
     color: rgba(14, 14, 14, 0.3);
     border:1px solid rgba(14, 14, 14, 0.15);
     display: flex;
@@ -317,6 +318,7 @@
     margin: 0 auto;
     
  }
+ 
 
  /* footer section */
  .footer-content,hr{
@@ -329,11 +331,13 @@
     font-weight: bold;
     font-size: 32px;
     text-align: center;
+    padding: 40px;
  }
  .imagess{
     display: flex;
     justify-content: center;
     gap: 20px;
+    padding: 40px;
  }
 
 
@@ -346,6 +350,47 @@
 
  /* challenge part */
 
+
+
+
+
+ /* :hover section */
+ .btn-1:hover{
+    background-color: red;
+ }
+ .btn-2:hover{
+    background-color: red;
+ }
+ .btn-3:hover{
+    background-color: red;
+ }
+ .btn-4:hover{
+    background-color: red;
+ }
+ .donate-btn:hover{
+    background-color: red;
+ }
+ .satelite-btn:hover{
+    background-color: red;
+ }
+ .satelite-1-btn:hover{
+    background-color: red;
+ }
+ .information-btn-1:hover{
+    background-color: red;
+ }
+ .information-btn-2:hover{
+    background-color: red;
+ }
+ .information-btn-3:hover{
+    background-color: red;
+ }
+ .header-btn:hover{
+    background-color: red;
+ }
+ .btn-primary:hover{
+    background-color: red;
+ }
 
 
 
