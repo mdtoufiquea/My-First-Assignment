@@ -329,7 +329,7 @@
  /* challenge part */
 
 
- 
+
 
  /* Pillars of "Bangladesh 2.0" */
 .parents{
@@ -365,5 +365,31 @@
  }
 
 
+/* Dr. Muhammad Yunus */
+.Yunus{
+    max-width: 1286px;
+    margin: 80px auto;
+    background-color:#FFFFFF ;
+    padding: 48px 24px;
+    border: 1px solid rgba(14, 14, 14, 0.3) ;
+    border-radius: 16px;
+    background-image: url(../images/quote-bg.png);
+    background-repeat: no-repeat;
+}
+.Yunus-description{
+    color: rgba(14, 14, 14, 0.8);
+    font-weight: 400;
+    font-size: 16px;
+}
+.Yunus-title{
+    color: #0E0E0E;
+    font-weight: 600;
+    font-size: 20px;
+}
+.Yunus-sub-title{
+    color: rgba(14, 14, 14, 0.6);
+    font-weight:400;
+    font-size: 16px;
+}
 
  
